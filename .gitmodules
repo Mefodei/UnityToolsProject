@@ -1,0 +1,3 @@
+[submodule "Assets/UniTools"]
+	path = Assets/UniTools
+	url = https://github.com/Mefodei/UnityTools-Code.git
