@@ -7,6 +7,7 @@
 *.unityproj
 *.apk
 .vs/
+.idea/
 /Library
 /obj
 /Temp
@@ -14,4 +15,5 @@
 /ProjDocs
 /Build*
 /AssetBundles
+/Assets/Plugins/Editor/JetBrains*
 *.stackdump
