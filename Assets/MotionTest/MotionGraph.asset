@@ -59,7 +59,7 @@ MonoBehaviour:
       _connectionType: 0
       _dynamic: 1
   _routineType: 0
-  _angleStep: 0.1
+  _stepRange: {x: 0.5, y: 5}
 --- !u!114 &114624516331248648
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -147,6 +147,6 @@ MonoBehaviour:
       _connectionType: 0
       _dynamic: 1
   _routineType: 0
-  Count: 100
+  Count: 10000
   MaxRange: 100
   Target: {fileID: 8282360954039787543, guid: feb71eece72fc024eae1a8e5bbaac273, type: 3}
