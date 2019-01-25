@@ -12,8 +12,10 @@
 /obj
 /Temp
 /Build
+/Logs/*
 /ProjDocs
 /Build*
 /AssetBundles
 /Assets/Plugins/Editor/JetBrains*
 *.stackdump
+/Logs/
