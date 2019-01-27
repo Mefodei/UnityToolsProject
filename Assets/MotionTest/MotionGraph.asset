@@ -147,6 +147,6 @@ MonoBehaviour:
       _connectionType: 0
       _dynamic: 1
   _routineType: 0
-  Count: 10000
+  Count: 20000
   MaxRange: 100
   Target: {fileID: 8282360954039787543, guid: feb71eece72fc024eae1a8e5bbaac273, type: 3}

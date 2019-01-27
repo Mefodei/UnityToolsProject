@@ -20,9 +20,8 @@ namespace MotionTest
             var rotationPoint = new Vector3(Random.Range(-1f,1f),Random.Range(-1f,1f),Random.Range(-1f,1f));
             var angle = Random.Range(_stepRange.x,_stepRange.y);   
             
-            while (IsActive(context))
+            while (true)
             {
-                
                 
                 transform.RotateAround(Vector3.zero,rotationPoint,angle);
                 
