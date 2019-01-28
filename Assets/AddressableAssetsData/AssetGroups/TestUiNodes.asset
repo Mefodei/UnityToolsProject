@@ -10,14 +10,36 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Packed Assets
+  m_Name: TestUiNodes
   m_EditorClassIdentifier: 
-  m_GroupName: Packed Assets
+  m_GroupName: TestUiNodes
   m_Data:
     m_SerializedData: []
   m_GUID: de4a49c49b3170442b8eff60e1aa0aa1
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 1771a3a9b8c75554ebb2cf8a1f5fe980
+    m_Address: Assets/UniModule/UnityTools/UniVisualNodeSystem/Examples/UIExample/TestUI1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 530c19873a525f54c859b36d4b59c1ad
+    m_Address: Assets/UniModule/UnityTools/UniVisualNodeSystem/Examples/UIExample/TestUI2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d86b7dfeae2f2245a0b14c515a861c1
+    m_Address: Assets/UniModule/UnityTools/UniVisualNodeSystem/Examples/UIExample/TestUI4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6844adcd6abe104794338b19e9bf754
+    m_Address: Assets/UniModule/UnityTools/UniVisualNodeSystem/Examples/UIExample/TestUI3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2586b0a83d3dae4793c1799d0085a93
+    m_Address: Assets/UniModule/UnityTools/UniVisualNodeSystem/Examples/UIExample/TestUI5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f4c173e2293d13e4a837dd2f3c83cfb1, type: 2}
   m_SchemaSet:
-    m_Schemas: []
+    m_Schemas:
+    - {fileID: 11400000, guid: 45790a876a4963d40a1afa53a3e7cbb3, type: 2}
+    - {fileID: 11400000, guid: 6c3393eac8098b4439c2e3e098d03f53, type: 2}
